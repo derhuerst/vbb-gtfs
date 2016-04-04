@@ -9,7 +9,7 @@ BRT---,Verkehrsbetriebe Brandenburg an der Havel GmbH,http://www.vbbr.de,Europe/
 BTS___,Barnimer Busgesellschaft mbH,http://www.bbg-eberswalde.de,Europe/Berlin,de,03334 235003
 BVB---,Berliner Verkehrsbetriebe,http://www.bvg.de,Europe/Berlin,de,030 19449
 BVF---,Berliner Verkehrsbetriebe,http://www.bvg.de,Europe/Berlin,de,030 19449
-BVSG__,Beelitzer Verkehrs- und Servicegesellschaft mbH,http://www.havelbus.de,Europe/Berlin,de,033204 35688
+BVSG__,Beelitzer Verkehrs- und Servicegesellschaft mbH,http://www.pm-bus.de,Europe/Berlin,de,033204 35688
 BVT---,Berliner Verkehrsbetriebe,http://www.bvg.de,Europe/Berlin,de,030 19449
 BVU---,Berliner Verkehrsbetriebe,http://www.bvg.de,Europe/Berlin,de,030 19449
 CNB---,Cottbusverkehr GmbH,http://www.cottbusverkehr.de,Europe/Berlin,de,0355 8662422
@@ -26,9 +26,11 @@ LANGE-,Lange,http://www.lange-tours.de,Europe/Berlin,de,033841 99222
 LEH---,Lehmann Reisen GmbH,http://www.lehmannreisen.de/,Europe/Berlin,de,035365 2102
 N01---,DB Regio AG,http://www.bahn.de/brandenburg,Europe/Berlin,de,0331 2356881
 N04---,DB Regio AG,http://www.bahn.de/brandenburg,Europe/Berlin,de,0331 2356881
+N51---,DB Regio AG,http://www.bahn.de/brandenburg,Europe/Berlin,de,0331 2356881
 NBB---,DB Regio AG,http://www.bahn.de/brandenburg,Europe/Berlin,de,0331 2356881
 NBW---,DB Regio AG,http://www.bahn.de/brandenburg,Europe/Berlin,de,0331 2356881
 NEB---,NEB Betriebsgesellschaft mbH,http://www.neb.de,Europe/Berlin,de,030 396011344
+NEV---,NEB Betriebsgesellschaft mbH,http://www.neb.de,Europe/Berlin,de,030 396011344
 ODBUS_,ODEG Ostdeutsche Eisenbahn GmbH,http://www.odeg.de,Europe/Berlin,de,030 514888888
 ODEN__,ODEG Ostdeutsche Eisenbahn GmbH,http://www.odeg.de,Europe/Berlin,de,030 514888888
 ODRE2_,ODEG Ostdeutsche Eisenbahn GmbH,http://www.odeg.de,Europe/Berlin,de,030 514888888
@@ -36,7 +38,9 @@ ODRE4_,ODEG Ostdeutsche Eisenbahn GmbH,http://www.odeg.de,Europe/Berlin,de,030 5
 ODSNN_,ODEG Ostdeutsche Eisenbahn GmbH,http://www.odeg.de,Europe/Berlin,de,030 514888888
 ORPN--,ORP Ostprignitz-Ruppiner Personennahverkehrsgesellschaft mbH,http://www.orp-busse.de,Europe/Berlin,de,01805 899677
 OVG---,Oberhavel Verkehrsgesellschaft mbH,http://www.ovg-online.de,Europe/Berlin,de,03306 2307
+REI---,A. Reich GmbH Busbetrieb,http://www.a-reich.com,Europe/Berlin,de,03372 404677
 RVS---,Regionale Verkehrsgesellschaft Dahme-Spreewald mbH,http://www.rvs-lds.de,Europe/Berlin,de,03544 50010
+SCH---,Busverkehr Gerd Schmidt,http://www.fahrschuleschmidt.de,Europe/Berlin,de,03574 760175
 SDL___,stendalbus,http://www.stendalbus.de,Europe/Berlin,de,03931 6899555
 SEV---,S-Bahn Berlin GmbH,http://www.s-bahn-berlin.de,Europe/Berlin,de,030 29743333
 SNB___,DB Regio Bus Ost GmbH,http://www.bahn.de/spreeneissebus/view/index.shtml,Europe/Berlin,de,0800 2992299
@@ -44,6 +48,7 @@ SRS---,Schöneicher Rüdersdorfer Straßenbahn GmbH,http://www.srs-tram.de,Europ
 STE---,Strausberger Eisenbahn GmbH,http://www.strausberger-eisenbahn.de,Europe/Berlin,de,03341 345100
 STF---,Strausberger Eisenbahn GmbH,http://www.strausberger-eisenbahn.de,Europe/Berlin,de,03341 345100
 STG---,Sabinchen Touristik GmbH,http://www.vbb.de/de/article/verkehrsunternehmen-im-vbb/sabinchen-touristik-gmbh/6613.html,Europe/Berlin,de,033748 70141
+TI----,Tropical Islands,http://www.tropical-islands.de,Europe/Berlin,de,035477 605050
 UVGG__,Uckermärkische Verkehrsgesellschaft,http://www.uvg-online.com,Europe/Berlin,de,03332 442755
 VGB---,Verkehrsgesellschaft Belzig mbH,http://www.vgbelzig.de,Europe/Berlin,de,033841 99222
 VGOSL_,Verkehrsgesellschaft Oberspreewald-Lausitz mbH,http://www.vgosl.de,Europe/Berlin,de,03531 650010
