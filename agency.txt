@@ -7,6 +7,7 @@ BON---,Busverkehr Oder-Spree GmbH,http://www.bos-fw.de,Europe/Berlin,de,03361 55
 BRB---,Verkehrsbetriebe Brandenburg an der Havel GmbH,http://www.vbbr.de,Europe/Berlin,de,03381 5340
 BRT---,Verkehrsbetriebe Brandenburg an der Havel GmbH,http://www.vbbr.de,Europe/Berlin,de,03381 5340
 BTS___,Barnimer Busgesellschaft mbH,http://www.bbg-eberswalde.de,Europe/Berlin,de,03334 235003
+BUK---,Buckower Kleinbahn,http://www.buckower-kleinbahn.de,Europe/Berlin,de,033433 57578
 BVB---,Berliner Verkehrsbetriebe,http://www.bvg.de,Europe/Berlin,de,030 19449
 BVF---,Berliner Verkehrsbetriebe,http://www.bvg.de,Europe/Berlin,de,030 19449
 BVSG__,Beelitzer Verkehrs- und Servicegesellschaft mbH,http://www.pm-bus.de,Europe/Berlin,de,033204 35688
@@ -38,6 +39,7 @@ ODRE4_,ODEG Ostdeutsche Eisenbahn GmbH,http://www.odeg.de,Europe/Berlin,de,030 5
 ODSNN_,ODEG Ostdeutsche Eisenbahn GmbH,http://www.odeg.de,Europe/Berlin,de,030 514888888
 ORPN--,ORP Ostprignitz-Ruppiner Personennahverkehrsgesellschaft mbH,http://www.orp-busse.de,Europe/Berlin,de,01805 899677
 OVG---,Oberhavel Verkehrsgesellschaft mbH,http://www.ovg-online.de,Europe/Berlin,de,03306 2307
+PKP---,PKP Intercity,http://www.intercity.pl/de,Europe/Berlin,de,0482239 19757
 REI---,A. Reich GmbH Busbetrieb,http://www.a-reich.com,Europe/Berlin,de,03372 404677
 RVS---,Regionale Verkehrsgesellschaft Dahme-Spreewald mbH,http://www.rvs-lds.de,Europe/Berlin,de,03544 50010
 SCH---,Busverkehr Gerd Schmidt,http://www.fahrschuleschmidt.de,Europe/Berlin,de,03574 760175
