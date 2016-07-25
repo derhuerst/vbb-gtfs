@@ -30,6 +30,7 @@ N01---,DB Regio AG,http://www.bahn.de/brandenburg,Europe/Berlin,de,0331 2356881
 N04---,DB Regio AG,http://www.bahn.de/brandenburg,Europe/Berlin,de,0331 2356881
 N51---,DB Regio AG,http://www.bahn.de/brandenburg,Europe/Berlin,de,0331 2356881
 NBB---,DB Regio AG,http://www.bahn.de/brandenburg,Europe/Berlin,de,0331 2356881
+NBW---,DB Regio AG,http://www.bahn.de/brandenburg,Europe/Berlin,de,0331 2356881
 NEB---,NEB Betriebsgesellschaft mbH,http://www.neb.de,Europe/Berlin,de,030 396011344
 NEV---,NEB Betriebsgesellschaft mbH,http://www.neb.de,Europe/Berlin,de,030 396011344
 ODBUS_,ODEG Ostdeutsche Eisenbahn GmbH,http://www.odeg.de,Europe/Berlin,de,030 514888888
@@ -39,6 +40,7 @@ ODRE4_,ODEG Ostdeutsche Eisenbahn GmbH,http://www.odeg.de,Europe/Berlin,de,030 5
 ODSNN_,ODEG Ostdeutsche Eisenbahn GmbH,http://www.odeg.de,Europe/Berlin,de,030 514888888
 ORPN--,ORP Ostprignitz-Ruppiner Personennahverkehrsgesellschaft mbH,http://www.orp-busse.de,Europe/Berlin,de,01805 899677
 OVG---,Oberhavel Verkehrsgesellschaft mbH,http://www.ovg-online.de,Europe/Berlin,de,03306 2307
+PGB---,prignitzbus,http://www.prignitz-bus.de,Europe/Berlin,de,03876 789940
 PKP---,PKP Intercity,http://www.intercity.pl/de,Europe/Berlin,de,0482239 19757
 REI---,A. Reich GmbH Busbetrieb,http://www.a-reich.com,Europe/Berlin,de,03372 404677
 RVS---,Regionale Verkehrsgesellschaft Dahme-Spreewald mbH,http://www.rvs-lds.de,Europe/Berlin,de,03544 50010
